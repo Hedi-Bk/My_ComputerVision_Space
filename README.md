@@ -7,7 +7,7 @@ This repository gathers a set of hands-on projects exploring various machine lea
 
 - 📂 Projects include applications in Image Classification, Object Detection, and Medical Image Segmentation.
 - 💡 Architectures used: CNN, Vision Transformers (ViT), UNet, SwinUNETR, and more.
-- ⚡ Execution-ready notebooks available and tested on **Kaggle Notebooks** for smooth and resource-friendly runs.
+- ⚡ Execution-ready notebooks available and tested on **[Kaggle Notebooks](https://www.kaggle.com/bkhedi)** for smooth and resource-friendly runs.
 
 ---
 
