@@ -17,7 +17,7 @@ Here are the Main projects that u may be interrested in
 
 | Topic | Blog (Notion) | Kaggle Notebook |
 |:------|:-------------|:----------------|
-| CNN :Fashion MNIST | [![Notion](https://img.shields.io/badge/https://hedi--.notion.site/Clothing-Classifier-MODEL-CNN-1bc974e2543b802590c5e2a7c231e7ec)](TON_LIEN_NOTION_CNN) | [![Kaggle](https://img.shields.io/badge/[Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white](https://www.kaggle.com/code/bkhedi/cnn-mnist-fashion))]() |
+| CNN :Fashion MNIST | [![Notion](https://img.shields.io/badge/https://hedi--.notion.site/Clothing-Classifier-MODEL-CNN-1bc974e2543b802590c5e2a7c231e7ec)](https://hedi--.notion.site/Clothing-Classifier-MODEL-CNN-1bc974e2543b802590c5e2a7c231e7ec) | [![Kaggle](https://img.shields.io/badge/[Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white](https://www.kaggle.com/code/bkhedi/cnn-mnist-fashion))]() |
 | Building Text Translation System using Meta NLLB Open-Source Model | [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](TON_LIEN_NOTION_TRANSLATION) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/building-text-translation-system-using-meta-nllb) |
 
 
