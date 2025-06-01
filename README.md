@@ -20,6 +20,10 @@ Here are the Main projects that u may be interrested in
 | CNN : Fashion MNIST | [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://hedi--.notion.site/Clothing-Classifier-MODEL-CNN-1bc974e2543b802590c5e2a7c231e7ec) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/bkhedi/cnn-mnist-fashion) |
 
 
-
+| **Topic** | Kaggle notbeook | Blog(Notion) | UI Available ? |
+| --- | --- | --- | --- |
+| CNN : Fashion MNIST | https://www.kaggle.com/code/bkhedi/cnn-mnist-fashion | https://hedi--.notion.site/Clothing-Classifier-MODEL-CNN-1bc974e2543b802590c5e2a7c231e7ec | Jupiter Notebook Only |
+| Object Detection | https://www.kaggle.com/code/bkhedi/vit-for-zero-shot-object-detection |  | Jupiter Notebook Only |
+| Brain Tumour Segmentation :SwinUnetR + Monai |  | [Brain Tumour Segmentation -Swin UNETR](https://www.notion.so/Brain-Tumour-Segmentation-Swin-UNETR-1b9974e2543b8094a8bec1630cab860c?pvs=21)  | https://huggingface.co/spaces/Hedi-Bk/BRATS |
 
 Feel free to explore the code, experiment with the notebooks, and adapt the ideas for your own projects!  
