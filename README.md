@@ -1,8 +1,9 @@
 # 🧠 Deep Learning Projects Showcase
 
 Welcome to my Deep Learning project collection!  
-![XX](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="300"/>
+</p>
 This repository gathers a set of hands-on projects exploring various machine learning and deep learning architectures.
 
 ## 🔍 Highlights
