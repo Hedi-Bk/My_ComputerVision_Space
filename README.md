@@ -14,7 +14,7 @@ This repository gathers a set of hands-on projects exploring various machine lea
 Here are the Main projects that u may be interrested in 
 
 ### 1.Jupiter Notebooks On kaggle ##
-| **Topic** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🧠 Kaggle Notebook | 📝 Blog (Notion) | 🖥️ UI Available? |Github Repo |
+| **Topic** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🧠 Kaggle Notebook | 📝 Blog (Notion) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🖥️ UI Available? |Github Repo |
 |----------|--------------------|------------------|------------------|------------------|
 | CNN : Fashion MNIST | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/bkhedi/cnn-mnist-fashion) | [![Notion](https://img.shields.io/badge/Notion-Blog-000000?logo=notion&logoColor=white)](https://hedi--.notion.site/Clothing-Classifier-MODEL-CNN-1bc974e2543b802590c5e2a7c231e7ec) | ❌ |❌|
 | Object Detection | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/bkhedi/vit-for-zero-shot-object-detection) | Description on Kaggle ✅| ❌ |❌|
