@@ -23,7 +23,8 @@ Here are the Main projects that u may be interrested in
 
 | **Topic** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🧠 Kaggle Notebook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 📝 Blog (Notion) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🖥️ UI Available? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |Github Repo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |----------|--------------------|------------------|------------------|------------------|
-| Replicating the **ViT** Research Paper | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/bkhedi/pytorch-paper-replicating) | Description on Kaggle ✅|❌ |❌|
+| Replicating the **ViT** Research 
+Paper | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/bkhedi/pytorch-paper-replicating) | Description on Kaggle ✅|❌ |❌|
 
 ### 3.Medical Imaging Projects ##
 
