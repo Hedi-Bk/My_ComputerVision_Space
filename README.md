@@ -2,7 +2,7 @@
 
 <p align="center" width="300">Welcome to my Deep Learning project collection!  </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200"/>
 </p>
 This repository gathers a set of hands-on projects exploring various machine learning and deep learning architectures.
 
@@ -51,11 +51,16 @@ Spaces Contains : The basic of The concepts and Many Related Projects
 |🔷**OpenCV Space** :+3 Projects + My different Skills |❌| [![Notion](https://img.shields.io/badge/Notion-Blog-000000?logo=notion&logoColor=white)](https://www.notion.so/hedi--/OpenCV-Geeks_4_Geeks-221974e2543b8020b8afc016d1d11d25?source=copy_link)|❌| [![GitHub Stars](https://img.shields.io/github/stars/Hedi-Bk/Anti-Spoofing-Detection?style=social)](https://github.com/Hedi-Bk/OpenCv_Skills.git)|
 |🔷 **Object Detetction/Tracking Space** : YOLO,Real-Time ,Classification,Detetction + 3Projects| ❌| See READMEs 👉| See Demo 👉 | [![Github Stars](https://img.shields.io/github/stars/Hedi-Bk/Anti-Spoofing-Detection?style=social)](https://github.com/Hedi-Bk/Objetc_Detection__YOLO) |
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <p style="font-size: 16px;">
-      Feel free to explore the code, experiment with the notebooks, and adapt the ideas for your own projects!
-    </p>
-  </div>
-  <img src="https://github.com/user-attachments/assets/d7c0ef31-c3fc-44a3-adc6-539426cf9635" alt="icon" width="64" height="64">
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <p style="font-size:16px">
+        Feel free to explore the code, experiment with the notebooks, and adapt the ideas for your own projects!
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/d7c0ef31-c3fc-44a3-adc6-539426cf9635" alt="icon" width="64" height="64">
+    </td>
+  </tr>
+</table>
+
