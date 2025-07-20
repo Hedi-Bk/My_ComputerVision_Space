@@ -51,9 +51,11 @@ Spaces Contains : The basic of The concepts and Many Related Projects
 |🔷**OpenCV Space** :+3 Projects + My different Skills |❌| [![Notion](https://img.shields.io/badge/Notion-Blog-000000?logo=notion&logoColor=white)](https://www.notion.so/hedi--/OpenCV-Geeks_4_Geeks-221974e2543b8020b8afc016d1d11d25?source=copy_link)|❌| [![GitHub Stars](https://img.shields.io/github/stars/Hedi-Bk/Anti-Spoofing-Detection?style=social)](https://github.com/Hedi-Bk/OpenCv_Skills.git)|
 |🔷 **Object Detetction/Tracking Space** : YOLO,Real-Time ,Classification,Detetction + 3Projects| ❌| See READMEs 👉| See Demo 👉 | [![Github Stars](https://img.shields.io/github/stars/Hedi-Bk/Anti-Spoofing-Detection?style=social)](https://github.com/Hedi-Bk/Objetc_Detection__YOLO) |
 
-<img width="256" height="256" alt="216120981-b9507c36-0e04-4469-8e27-c99271b45ba5" src="https://github.com/user-attachments/assets/d7c0ef31-c3fc-44a3-adc6-539426cf9635" />
-
-
-
-
-Feel free to explore the code, experiment with the notebooks, and adapt the ideas for your own projects!  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p style="font-size: 16px;">
+      Feel free to explore the code, experiment with the notebooks, and adapt the ideas for your own projects!
+    </p>
+  </div>
+  <img src="https://github.com/user-attachments/assets/d7c0ef31-c3fc-44a3-adc6-539426cf9635" alt="icon" width="64" height="64">
+</div>
