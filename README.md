@@ -54,9 +54,9 @@ Spaces Contains : The basic of The concepts and Many Related Projects
 <table>
   <tr>
     <td align="left">
-      <p style="font-size:16px">
+      <h3 style="font-size:16px">
         Feel free to explore the code, experiment with the notebooks, and adapt the ideas for your own projects!
-      </p>
+      </h3>
     </td>
     <td align="right">
       <img src="https://github.com/user-attachments/assets/d7c0ef31-c3fc-44a3-adc6-539426cf9635" alt="icon" width="64" height="64">
