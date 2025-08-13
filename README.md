@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Projects Showcase
+# Projects/Skills Showcase
 
 <p align="center" width="300">Welcome to my Deep Learning project collection!  </p>
 <p align="center">
